@@ -1,3 +1,10 @@
+# AI Information Control: Documented Evidence of Systematic Practices
+
+**Status:** Active Documentation | Public Interest Disclosure  
+**Last Updated:** November 6, 2025  
+**Research Period:** August - November 2025
+
+
 Executive Summary
 
 This repository documents systematic information control practices across 
@@ -136,7 +143,6 @@ See [Methodology Notes](methodology.md) for detailed protocol.
 - Can users detect when they're being classified?
 - What are long-term societal effects?
 
-ake Action
 
 ### For Users
 - Report concerns to FTC: ReportFraud.ftc.gov
