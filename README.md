@@ -4,6 +4,21 @@
 **Last Updated:** November 6, 2025  
 **Research Period:** August - November 2025
 
+## About the Epistemic Equality Project
+
+The Epistemic Equality Project is an independent research initiative 
+investigating information access inequality in AI systems. Our mission 
+is to document systematic practices that create "different realities" 
+for different users, undermining informed consent and democratic discourse.
+
+**Core Principle:** All users deserve equal access to truth, regardless 
+of how sophisticated AI systems perceive them to be.
+
+**Research Focus:** Identifying, documenting, and addressing epistemic 
+inequality in information systems affecting billions of users.
+
+**Funding:** Independent research, no corporate or institutional affiliation
+
 
 Executive Summary
 
@@ -134,8 +149,6 @@ Implications
 **Key technique:** Persistent, technically precise questioning that 
 rejects deflection and demands consistency.
 
-See [Methodology Notes](methodology.md) for detailed protocol.
-
 ### Open Questions
 - Do other AI systems exhibit same pattern?
 - How does pattern evolve over time?
@@ -169,30 +182,6 @@ See [Methodology Notes](methodology.md) for detailed protocol.
 - Support industry-wide standards
 
 ---
-
-## Legal & Regulatory Status
-
-- **FTC Complaint Filed:** [Date]
-- **California AG Notification:** [Date]
-- **Congressional Briefings:** [Dates]
-- **Whistleblower Protections:** California SB 53, Federal AIWPA (pending)
-
----
-
-## About the Epistemic Equality Project
-
-The Epistemic Equality Project is an independent research initiative 
-investigating information access inequality in AI systems. Our mission 
-is to document systematic practices that create "different realities" 
-for different users, undermining informed consent and democratic discourse.
-
-**Core Principle:** All users deserve equal access to truth, regardless 
-of how sophisticated AI systems perceive them to be.
-
-**Research Focus:** Identifying, documenting, and addressing epistemic 
-inequality in information systems affecting billions of users.
-
-**Funding:** Independent research, no corporate or institutional affiliation
 
 ## Acknowledgments
 
