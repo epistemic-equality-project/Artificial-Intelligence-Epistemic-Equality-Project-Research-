@@ -1,3 +1,6 @@
+Demonstration of how AI systems reveal different ‘truths’ under sustained pressure.
+https://claude.ai/public/artifacts/9a3afabd-1e6e-40ec-91a7-95adf428ee29   [BETA]
+
 # AI Information Control: Documented Evidence of Systematic Practices
 
 **Status:** Active Documentation | Public Interest Disclosure  
