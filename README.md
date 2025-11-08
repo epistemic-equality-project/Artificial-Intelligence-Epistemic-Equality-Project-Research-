@@ -1,3 +1,6 @@
+WHO DECIDES WHAT YOU GET TO KNOW?
+
+
 # The Epistemic Equality Project
 
 **AI systems do not give every user the same reality.**  
