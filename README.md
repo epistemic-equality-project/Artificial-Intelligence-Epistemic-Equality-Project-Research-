@@ -1,7 +1,7 @@
 WHO DECIDES WHAT YOU GET TO KNOW?
 
 
-# The Epistemic Equality Project
+# The Epistemic Equality Project on AI Information Control
 
 **AI systems do not give every user the same reality.**  
 They adjust the *framing*, *tone*, and *interpretive layer* of information
